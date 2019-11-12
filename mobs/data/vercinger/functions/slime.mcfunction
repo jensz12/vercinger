@@ -99,3 +99,5 @@ summon slime 31 34 -260 {Size:4}
 summon slime 31 34 -260 {Size:4}
 summon slime 31 34 -260 {Size:4}
 summon slime 31 34 -260 {Size:4}
+title @a title {"text":"Her er 100 Slimes"}
+title @a subtitle {"text":"Held & lykke"}
