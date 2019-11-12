@@ -99,3 +99,4 @@ summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
+spreadplayers 31 -260 0 10 false @e[type=pillager,distance=..25,limit=100]
