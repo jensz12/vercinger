@@ -1,4 +1,5 @@
 time set 14000
+gamemode adventure @p
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}
 summon pillager 31 34 -260 {HandItems:[{Count:1,id:crossbow}]}

@@ -1,4 +1,5 @@
 time set 14000
+gamemode adventure @p
 summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}
 summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}
 summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}

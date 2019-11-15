@@ -1,4 +1,5 @@
 time set 6000
+gamemode adventure @p
 summon ghast 31 34 -260
 summon ghast 31 34 -260
 summon ghast 31 34 -260

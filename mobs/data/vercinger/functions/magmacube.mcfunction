@@ -1,4 +1,5 @@
 time set 6000
+gamemode adventure @p
 summon magma_cube 31 34 -260 {Size:4}
 summon magma_cube 31 34 -260 {Size:4}
 summon magma_cube 31 34 -260 {Size:4}

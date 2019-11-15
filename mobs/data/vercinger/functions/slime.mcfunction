@@ -1,4 +1,5 @@
 time set 6000
+gamemode adventure @p
 summon slime 31 34 -260 {Size:4}
 summon slime 31 34 -260 {Size:4}
 summon slime 31 34 -260 {Size:4}

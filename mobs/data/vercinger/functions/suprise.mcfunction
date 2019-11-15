@@ -1,3 +1,4 @@
+gamemode adventure @p
 summon minecraft:rabbit 31 34 -260 {RabbitType:99}
 summon minecraft:rabbit 31 34 -260 {RabbitType:99}
 summon minecraft:rabbit 31 34 -260 {RabbitType:99}

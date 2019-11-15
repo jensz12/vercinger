@@ -1,4 +1,5 @@
 time set 14000
+gamemode adventure @p
 summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
 summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
 summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
