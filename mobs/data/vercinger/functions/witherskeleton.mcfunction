@@ -100,5 +100,5 @@ summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
 summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
 summon wither_skeleton 31 34 -260 {HandItems:[{Count:1,id:stone_sword}]}
 spreadplayers 31 -260 0 10 false @e[type=wither_skeleton,distance=..25,limit=100]
-title @a title {"text":"Her er 100 Wither Skeletons"}
-title @a subtitle {"text":"Held & lykke"}
+title @a[gamemode=adventure] title {"text":"Her er 100 Wither Skeletons"}
+title @a[gamemode=adventure] subtitle {"text":"Held & lykke"}

@@ -99,5 +99,5 @@ summon minecraft:rabbit 21 34 -250 {RabbitType:99}
 summon minecraft:rabbit 21 34 -250 {RabbitType:99}
 summon minecraft:rabbit 21 34 -250 {RabbitType:99}
 spreadplayers 31 -260 0 10 false @e[type=rabbit,distance=..25,limit=100]
-title @a title {"text":"Her er 100 søde kaniner"}
-title @a subtitle {"text":"Held & lykke"}
+title @a[gamemode=adventure] title {"text":"Her er 100 søde kaniner"}
+title @a[gamemode=adventure] subtitle {"text":"Held & lykke"}

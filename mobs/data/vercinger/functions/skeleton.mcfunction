@@ -100,5 +100,5 @@ summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}
 summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}
 summon skeleton 31 34 -260 {HandItems:[{Count:1,id:bow}]}
 spreadplayers 31 -260 0 10 false @e[type=skeleton,distance=..25,limit=100]
-title @a title {"text":"Her er 100 Skeletter"}
-title @a subtitle {"text":"Held & lykke"}
+title @a[gamemode=adventure] title {"text":"Her er 100 Skeletter"}
+title @a[gamemode=adventure] subtitle {"text":"Held & lykke"}

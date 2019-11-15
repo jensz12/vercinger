@@ -99,5 +99,5 @@ summon magma_cube 31 34 -260 {Size:4}
 summon magma_cube 31 34 -260 {Size:4}
 summon magma_cube 31 34 -260 {Size:4}
 summon magma_cube 31 34 -260 {Size:4}
-title @a title {"text":"Her er 100 Magma Cubes"}
-title @a subtitle {"text":"Held & lykke"}
+title @a[gamemode=adventure] title {"text":"Her er 100 Magma Cubes"}
+title @a[gamemode=adventure] subtitle {"text":"Held & lykke"}
